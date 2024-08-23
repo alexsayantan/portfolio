@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-You can reach me at [sayantansaha11187@gmail.com](sayantansaha11187@gmail.com)
+You can reach me at [sayantansaha11187@gmail.com](mailto:sayantansaha11187@gmail.com)
 
 ---
 
